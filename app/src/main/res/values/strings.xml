@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NitrixTestTask</string>
+    <string name="retry">Retry</string>
+    <string name="error_internet_connection">Unable to upload data. Please check your internet connection and try again.</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>

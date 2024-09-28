@@ -1,0 +1,5 @@
+<resources>
+    <style name="Base.Theme.NitrixTestTask" parent="Theme.Material3.DayNight.NoActionBar"/>
+
+    <style name="Theme.NitrixTestTask" parent="Base.Theme.NitrixTestTask" />
+</resources>
